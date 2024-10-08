@@ -1,0 +1,52 @@
+//Mac/Home/Documents/WordleProject/bin/Debug/WordleProject.exe.config
+//Mac/Home/Documents/WordleProject/bin/Debug/WordleProject.exe
+//Mac/Home/Documents/WordleProject/bin/Debug/WordleProject.pdb
+//Mac/Home/Documents/WordleProject/obj/Debug/WordleProject.csproj.AssemblyReference.cache
+//Mac/Home/Documents/WordleProject/obj/Debug/WordleProject.Form1.resources
+//Mac/Home/Documents/WordleProject/obj/Debug/WordleProject.Properties.Resources.resources
+//Mac/Home/Documents/WordleProject/obj/Debug/WordleProject.csproj.GenerateResource.cache
+//Mac/Home/Documents/WordleProject/obj/Debug/WordleProject.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/WordleProject/obj/Debug/WordleProject.exe
+//Mac/Home/Documents/WordleProject/obj/Debug/WordleProject.pdb
+/Users/romangiannuzzi/Documents/WordleProject/bin/Debug/WordleProject.exe.config
+/Users/romangiannuzzi/Documents/WordleProject/bin/Debug/WordleProject.exe
+/Users/romangiannuzzi/Documents/WordleProject/bin/Debug/WordleProject.pdb
+/Users/romangiannuzzi/Documents/WordleProject/obj/Debug/WordleProject.csproj.AssemblyReference.cache
+/Users/romangiannuzzi/Documents/WordleProject/obj/Debug/WordleProject.Form1.resources
+/Users/romangiannuzzi/Documents/WordleProject/obj/Debug/WordleProject.Properties.Resources.resources
+/Users/romangiannuzzi/Documents/WordleProject/obj/Debug/WordleProject.csproj.GenerateResource.cache
+/Users/romangiannuzzi/Documents/WordleProject/obj/Debug/WordleProject.csproj.CoreCompileInputs.cache
+/Users/romangiannuzzi/Documents/WordleProject/obj/Debug/WordleProject.exe
+/Users/romangiannuzzi/Documents/WordleProject/obj/Debug/WordleProject.pdb
+\\Mac\Home\Documents\WordleProject\bin\Debug\WordleProject.exe.config
+\\Mac\Home\Documents\WordleProject\bin\Debug\WordleProject.exe
+\\Mac\Home\Documents\WordleProject\bin\Debug\WordleProject.pdb
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.Form1.resources
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.Properties.Resources.resources
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.csproj.GenerateResource.cache
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.exe
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.pdb
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.MainPage.resources
+\\Mac\Home\Documents\WordleProject\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\WordleProject\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\WordleProject\obj\Debug\WordleProject.csproj.CopyComplete
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\bin\Debug\WordleProject.exe.config
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\bin\Debug\WordleProject.exe
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\bin\Debug\WordleProject.pdb
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\bin\Debug\Newtonsoft.Json.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\bin\Debug\Newtonsoft.Json.xml
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.Form1.resources
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.MainPage.resources
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.Properties.Resources.resources
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordlePr.A6EC7632.Up2Date
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.exe
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.pdb
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\bin\Debug\WordleProject.exe.manifest
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\bin\Debug\WordleProject.application
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.exe.manifest
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\CISS 222 Project\WordleProject\obj\Debug\WordleProject.application
