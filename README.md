@@ -1,0 +1,2 @@
+Download Wordle Project Application to test the application. It should work, but if you cannot run the application, please let me know so I can fix it! If you would like to see the code for this application, you can view the folder with my code in it.
+Note: The commented sections in the code were intended to be a "Word checker" to make sure the input that the user put in was an actual word. Unfortunately, even with my professor's assistance, I was unable to get the code to play nicely with the API dictionary.
